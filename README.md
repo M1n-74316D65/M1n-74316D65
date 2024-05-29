@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, for more info check my [web profile](https://m1n.omg.lol) or my [/now page](https://m1n.omg.lol/now).
 
 <!--
 **M1n-74316D65/M1n-74316D65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
