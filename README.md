@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+- ✨ mainGitProvider = "[git.sr.ht/~m1n](https://git.sr.ht/~m1n)";
 - 🕸️ myWeb = "[m1n.land](https://m1n.land)";
 - 👤 myWebProfile = "[m1n.omg.lol](https://m1n.omg.lol)";
 - 🔭 myNowPage = "[m1n.omg.lol/now](https://m1n.omg.lol/now)";
@@ -9,6 +10,7 @@
 
 ---
 
+- ✨ main_git_provider = "[git.sr.ht/~m1n](https://git.sr.ht/~m1n)";
 - 🕸️ my_web = "[m1n.land](https://m1n.land)";
 - 👤 my_web_profile = "[m1n.omg.lol](https://m1n.omg.lol)";
 - 🔭 my_now_page = "[m1n.omg.lol/now](https://m1n.omg.lol/now)";
