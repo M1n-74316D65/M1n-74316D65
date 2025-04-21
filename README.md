@@ -3,7 +3,7 @@
 - ✨ mainRepoProvider = "[sr.ht/~m1n](https://sr.ht/~m1n)";
 - 🕸️ myWeb = "[m1n.land](https://m1n.land)";
 - 👤 myWebProfile = "[m1n.omg.lol](https://m1n.omg.lol)";
-- 🔭 myNowPage = "[m1n.omg.lol/now](https://m1n.omg.lol/now)";
+- 🔭 myStatusPage = "[status.cafe/users/m1n](https://status.cafe/users/m1n)";
 - 📫 howToReachMe = "[public@m1n.land](mailto:public@m1n.land)";
 - 😄 pronouns = "he/him";
 - ⚡ fn funFact() { t1me = "74316D65";}
@@ -13,7 +13,7 @@
 - ✨ main_repo_provider = "[sr.ht/~m1n](https://sr.ht/~m1n/)";
 - 🕸️ my_web = "[m1n.land](https://m1n.land)";
 - 👤 my_web_profile = "[m1n.omg.lol](https://m1n.omg.lol)";
-- 🔭 my_now_page = "[m1n.omg.lol/now](https://m1n.omg.lol/now)";
+- 🔭 my_status_page = "[status.cafe/users/m1n](https://status.cafe/users/m1n)";
 - 📫 how_to_reach_me = "[public@m1n.land](mailto:public@m1n.land)";
 - 😄 pronouns = "he/him";
 - ⚡ fn fun_fact() { t1me = "74316D65";}
