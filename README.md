@@ -50,8 +50,6 @@ const developer = {
 
 ![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=M1n-74316D65&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=M1n-74316D65&theme=tokyonight&hide_border=true)
-
 </div>
 
 ## 🚀 Proyectos Destacados
