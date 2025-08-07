@@ -94,8 +94,6 @@ const developer = {
 
 <div align="center">
 
-*"Code is poetry written in logic"* 
-
 ⚡ **Fun fact:** `74316D65` = `time` en hexadecimal 🕰️
 
 </div>
